@@ -27,11 +27,11 @@ The goal of this project is to reduce travel costs, save fuel, and promote eco-f
 
 ---
 
+## Future Enhancements
 
- !!!  Future Enhancements
-# Mobile app using React Native / Flutter
-# Payment Gateway Integration (Stripe / Razorpay)
-# Real-time GPS tracking of rides
-# Carpool groups for office/college communities
-# Driver verification with license/ID upload
-# Dark mode for UI
+- Mobile app using React Native / Flutter  
+- Payment Gateway Integration (Stripe / Razorpay)  
+- Real-time GPS tracking of rides  
+- Carpool groups for office/college communities  
+- Driver verification with license/ID upload  
+- Dark mode for UI  
